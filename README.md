@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @telefonosuci
 - 👀 I’m interested in Web development, IOT, AI/ML, accessibility, biometric etc.
-- 🌱 I’m currently learning AI/ML.
+- 🌱 I’m currently learning NextJS, Prismic, Tensorflow.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
